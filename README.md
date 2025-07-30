@@ -11,7 +11,7 @@ FontAwesome icons integration
 CSS animation for image slideshow
 
 📸 Preview
-<!-- You can add a screenshot of your page here if you like -->
+https://israel-ei.github.io/Access-bank-homepage-recreate/
 
 🛠️ Built With
 HTML5
